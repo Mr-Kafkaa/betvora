@@ -1,4 +1,8 @@
-import { useState } from "react";
+import FinnPlay from "app/index"; // o la ruta donde esté tu componente
+
+export default function Page() {
+  return <FinnPlay />;
+}
 
 // ── MOCK DATA ────────────────────────────────────────────────────────────────
 const MOCK_EVENTS = [
