@@ -1,7 +1,7 @@
-import FinnPlay from "app/index"; // o la ruta donde esté tu componente
+import Betvora from "app/index"; // o la ruta donde esté tu componente
 
 export default function Page() {
-  return <FinnPlay />;
+  return <Betvora />;
 }
 
 // ── MOCK DATA ────────────────────────────────────────────────────────────────
