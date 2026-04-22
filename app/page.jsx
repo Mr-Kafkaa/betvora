@@ -1,5 +1,5 @@
-import Bvradar from "./Bvradar";
+import bvradar from "./bvradar";
 
 export default function Page() {
-  return <Bvradar />;
+  return <bvradar />;
 }
