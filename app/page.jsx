@@ -1,5 +1,4 @@
-"use client";
-import FinnPlay from "./FinnPlay";
+import FinnPlay from "./Finnplay";
 
 export default function Page() {
   return <FinnPlay />;
