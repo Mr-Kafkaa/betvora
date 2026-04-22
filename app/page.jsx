@@ -1,5 +1,5 @@
-import FinnPlay from "./Finnplay";
+import FinnPlay from "./Bvradar";
 
 export default function Page() {
-  return <FinnPlay />;
+  return <Bvradar />;
 }
