@@ -1,3 +1,5 @@
+import Bvradar from "./Bvradar";
+
 export default function Page() {
-  return <h1>FUNCIONA 🚀</h1>;
+  return <Bvradar />;
 }
