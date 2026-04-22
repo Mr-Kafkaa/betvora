@@ -1,7 +1,7 @@
 "use client";
 import { useState } from "react";
 
-export default function bvradar() {
+export default function Bvradar() {
   const [section, setSection] = useState("dashboard");
 
   return (
