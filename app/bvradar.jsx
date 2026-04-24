@@ -1,6 +1,6 @@
 "use client";
 import { useState, useEffect } from "react";
-import { supabase } from "./lib/supabase";
+import { supabase } from "./lib/supabase"; 1
 
 // ── HELPERS ───────────────────────────────────────────────────────────────────
 const fmt = (n) => Number(n)?.toLocaleString("es-MX");
